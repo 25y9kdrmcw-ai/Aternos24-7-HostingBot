@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": playclanmcnet.aternos.me
+    
+    "port":29551,
     "version": "",
     "try-creative": false
   },
